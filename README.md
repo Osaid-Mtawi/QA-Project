@@ -8,7 +8,6 @@
    rel="noopener noreferrer">
  <h1>Mumen Hijazi 🔗</h1>
 </a>
-
 <a href="https://github.com/Osaid-Mtawi"
    target="_blank"
    rel="noopener noreferrer">
