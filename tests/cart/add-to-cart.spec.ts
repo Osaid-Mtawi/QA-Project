@@ -9,7 +9,7 @@ test.describe('Add to Cart', () => {
     const details = new ProductDetailsPage(page);
     const cart = new CartPage(page);
 
-    await products.gotoProducts();      // أو products.goto() لو انت عاملها
+    await products.gotoProducts();     
     await products.openFirstProduct();
 
     await details.addToCart();
