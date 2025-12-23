@@ -3,15 +3,11 @@ import { Page, Locator, expect } from '@playwright/test';
 export class ProductsPage {
   readonly page: Page;
 
-  // listing
+  
   readonly productCards: Locator;
-
-  // search + sort
   readonly searchInput: Locator;
   readonly searchBtn: Locator;
   readonly sortSelect: Locator;
-
-  // filters
   readonly priceSlider: Locator;
   readonly priceHandles: Locator;
 
